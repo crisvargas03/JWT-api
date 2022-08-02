@@ -2262,11 +2262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\civar\\Desktop\\work-station\\JWT-api\\JWT-api\\JWT-api\\JWT-api.csproj",
+      "projectUniqueName": "C:\\Users\\civar\\Desktop\\work-station\\Backend\\JWT-api\\JWT-api\\JWT-api\\JWT-api.csproj",
       "projectName": "JWT-api",
-      "projectPath": "C:\\Users\\civar\\Desktop\\work-station\\JWT-api\\JWT-api\\JWT-api\\JWT-api.csproj",
+      "projectPath": "C:\\Users\\civar\\Desktop\\work-station\\Backend\\JWT-api\\JWT-api\\JWT-api\\JWT-api.csproj",
       "packagesPath": "C:\\Users\\civar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\civar\\Desktop\\work-station\\JWT-api\\JWT-api\\JWT-api\\obj\\",
+      "outputPath": "C:\\Users\\civar\\Desktop\\work-station\\Backend\\JWT-api\\JWT-api\\JWT-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\civar\\AppData\\Roaming\\NuGet\\NuGet.Config",

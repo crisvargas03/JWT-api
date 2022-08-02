@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O8C719aTcBbcMhyZEDoOl1+WSb56Idh0xoAxOs2kpPqr2Idmw5f5nB7gGv9h+ROFe7/NZjXkADSWuyOmsYDmWQ==",
+  "dgSpecHash": "UQJb6TTVeDMHflyH4owVNEQjHhXTRR+psMX3tPgcA3L09+n5CWAwEFQqDhXOyRTvX8nq2I1NYX94nd76VHBzyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\civar\\Desktop\\work-station\\JWT-api\\JWT-api\\JWT-api\\JWT-api.csproj",
+  "projectFilePath": "C:\\Users\\civar\\Desktop\\work-station\\Backend\\JWT-api\\JWT-api\\JWT-api\\JWT-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\civar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\civar\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.7\\microsoft.aspnetcore.authentication.jwtbearer.6.0.7.nupkg.sha512",
